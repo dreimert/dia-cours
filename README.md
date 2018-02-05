@@ -5,3 +5,6 @@ Ce git a pour vocation de servir de support de cours pour Développement et Int�
 Pour le moment, il n'y a pas d'organisation pré-supposée, libre à vous de vous emparer de ce support.
 
 Le dépôt sur le vocabulaire vient en complément de celui-ci : https://github.com/dreimert/dia-vocabulaire
+
+## Notes étudiants
+- Gabriel Augendre : [Dropbox Paper](https://paper.dropbox.com/doc/DIA-Developpement-et-Integration-dApplications-distribuees-GFsODAKJvgw8I5wNbJRvL?_tk=share_copylink)
